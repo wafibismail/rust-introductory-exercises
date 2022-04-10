@@ -41,7 +41,9 @@ Build the project, which creates the .exe files, etc in a target folder:
 cargo build
 ```
 
-Run the project:
+Compile and run the project:
+- Useful for rapidly iterating on a project
+- Also useful for quickly testing each iteration before moving onto the next one
 
 ```ps
 cargo run
